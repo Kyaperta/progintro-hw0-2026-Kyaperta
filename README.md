@@ -1,1 +1,20 @@
-# progintro-hw0-2026-Kyaperta
+# progintro-hw0-2026-Kyaperta short descriptions on how i did each byte 1-16 (no i didnt do 17 fight me)
+
+byte0: [directories_are_fun_gotta_catch_em_all] "using cd and a LOT of tab"
+byte1: [brown_paper_packages_tied_up_with_strings] "i cated it"
+byte2: [grep_and_you_shall_find] "well i grepped and i indeed found"
+byte3: [programmers] "using diff it gave me back two lines this is theword they have diffrent"
+byte4: [the_triwizard_cup_is_yours_watch_out_for_the_horntail] "used find with cup as the target"
+byte5: [sdi2500251_1793364944_-162187536_94_71_237_77_12437_22] "make folder in temp. copy c code there, compile , run, realize i need to give sdil, give sdi, result"
+byte6: [unzip_whenever_you_feel_a_little_compressed] "same thing as above instead i just unzip and then just read it"
+byte7: [tar_jokes_wont_stick] "did a search online used tar -xzvf, -works, turns out there is a lot of tar"
+byte8: [there_s_more_than_what_meets_the_eye] "i vimmed it thats kinda it to be honest"
+byte9: [you_re_on_the_right_path] "instead of cat - i did "cat ./-"
+byte10: [Angy] "using sort names.txt | head -n 67 | tail -n 1, and NOT playing a airforce game"
+byte11: [Peta] "same thing as above"
+byte12: [which_command_is_the_best] "whereis thats the one"
+byte13: [descriptive_git_commit_messages_are_great] "git log, lots of searching"
+byte14: [copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand]  "git log -p and a LOOOOT of searching"
+byte15: [the_exit_code_is_42] "using ls -a, i run the program got the exit code through echo, and well here we are"
+byte16: [now_you_can_see_past_the_noise] "./noisy 2>/dev/null, tbh i didnt really understand this one that much"
+

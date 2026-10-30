@@ -1,4 +1,4 @@
-# progintro-hw0-2026-Kyaperta short descriptions on how i did each byte 1-16 (no i didnt do 17 fight me)
+# progintro-hw0-2026-Kyaperta short descriptions on how i did each byte 0-16 (no i didnt do 17 fight me)
 
 byte0: [directories_are_fun_gotta_catch_em_all] "using cd and a LOT of tab"
 byte1: [brown_paper_packages_tied_up_with_strings] "i cated it"

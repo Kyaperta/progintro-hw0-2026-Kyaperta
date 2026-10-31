@@ -17,10 +17,3 @@ byte13: [descriptive_git_commit_messages_are_great] "git log, lots of searching"
 byte14: [copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand]  "git log -p and a LOOOOT of searching"
 byte15: [the_exit_code_is_42] "using ls -a, i run the program got the exit code through echo, and well here we are"
 byte16: [now_you_can_see_past_the_noise] "./noisy 2>/dev/null, tbh i didnt really understand this one that much"
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-For the program
-
-//Sources Used: Goldbach's Conjecture definition: https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
-//Goldbach's Code idea stems from: https://dev.to/hakan/goldbach-conjecture-and-a-simple-approach-in-c-56b0
-//Primality Test optimization: https://gist.github.com/CarterA/158739
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -59,7 +59,7 @@ int main(void){
             }
         }
             
-        if (tot == 'g' || tot == 'G') {
+        if (tot == 'g' || tot == 'G') { //checking whether or not num is 2 or less and if its even
             if (num % 2 == 1){
                 printf("Goldbach's conjecture is applicable only to even numbers greater than 2!\n");
             }
